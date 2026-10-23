@@ -104,14 +104,14 @@ Finally, I would like to thank Matt Johansen (Vulnerable U) and the team at RedB
 
 # 6. References
 
-## 6.1 [[Web - Wazuh User Manual - Decoders]]
+## 6.1 Web - Wazuh User Manual - Decoders
 - https://documentation.wazuh.com/current/user-manual/ruleset/decoders/custom.html
-## 6.2 [[Web - pfSense XML Configuration File Documentation]]
+## 6.2 Web - pfSense XML Configuration File Documentation
 - https://docs.netgate.com/pfsense/en/latest/config/xml-configuration-file.html
-## 6.3 [[Web - Wazuh User Manual - Rules]]
+## 6.3 Web - Wazuh User Manual - Rules
 - https://documentation.wazuh.com/current/user-manual/ruleset/rules/custom.html
-## 6.4 [[Web - Wazuh User Manual - Ruleset XML Syntax - PCRE2]]
+## 6.4 Web - Wazuh User Manual - Ruleset XML Syntax - PCRE2
 - https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/pcre2.html
-## 6.5 [[YouTube - Set Up Snort in PFSense From Scratch (IDS and IPS)]]
+## 6.5 YouTube - Set Up Snort in PFSense From Scratch (IDS and IPS)
 - RedBlue Labs
 - https://www.youtube.com/watch?v=SapAcfHbQSE
