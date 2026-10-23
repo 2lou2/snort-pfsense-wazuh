@@ -1,5 +1,5 @@
 # 1. Introduction
-## 1.1 "Teaser" overview
+## 1.1 Overview
 From Snort Alerts to ATT&CK: Engineering a Detection Pipeline with Wazuh
 
 A SIEM is only as valuable as its ability to detect meaningful activity. Collecting logs is straightforward, but transforming those logs into actionable intelligence requires careful integration, parsing, correlation, and validation. This project documents the design and validation of a detection pipeline using Wazuh, Snort running on pfSense, Sysmon, and Atomic Red Team to verify that simulated adversary techniques could be detected and accurately mapped to the MITRE ATT&CK framework. Along the way, I developed custom decoders and detection rules, investigated unexpected behaviors, and gained a deeper appreciation for the role that regular expressions and log parsing play in detection engineering. The project also reinforced that persistence, careful troubleshooting, and a willingness to learn from mistakes are often just as important as technical knowledge when solving complex cybersecurity problems.
